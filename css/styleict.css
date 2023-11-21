@@ -1,0 +1,77 @@
+body{
+    background-image:url("../images/istockphoto-1207112372-1024x1024.jpg");
+    background-size: cover;
+}
+header{
+    background-color: blue;
+
+}
+ .navigation{
+float:right;
+margin-top: 20px;
+margin-right: 25px;
+ }
+ .navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: yellow
+    text-decoration:aliceblue
+    border:1px solid blanchedalmond
+    padding: 10px;
+ }
+    
+ .navigation a:hover{
+    background-color: brown;
+    color: blue;
+
+ }
+  /* aside */
+  .side{
+    color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px;
+    float:left;
+
+  }
+
+  
+  
+ .side h3 {
+    margin-bottom: 25px;
+
+  }
+  .side li{
+    padding: 5px;
+    list-style-type: square ;
+  }
+
+  }
+
+  /* aside */
+
+ /* form */
+ comment code
+ .my_login{
+    border: 1px solid rgb(238, 7, 7);
+    background-color: rgb(53, 63, 11);
+    float: right;
+    padding-left: 70px;
+    padding-right: 50px;
+    background-color: brown;
+
+ }
+ /* form */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

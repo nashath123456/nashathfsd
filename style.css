@@ -1,0 +1,55 @@
+
+body {
+    background-image: url("");
+}
+
+
+h3{
+    color: blue;
+}
+#heading1{
+   color: brown; 
+
+}
+#heading2{
+    color: blue;
+
+}
+#heading3{
+    color: azure;
+
+}
+.pgraph{
+    border: 2px solid black;
+    background-color: rgb(238, 139, 18);
+    padding-left:20px;
+    margin-left: 20px;
+
+}
+.heading1{
+    border: 2px solid black;
+    background-color: blue;
+    padding: left 30px;
+    margin-left: 20px;
+
+
+
+}heading2{
+    border: 2px solid black;
+    background-color: blue;
+    padding: left 30px;
+    margin-left: 20px;
+
+    heading3{
+        border: 2px solid black;
+        background-color: blue;
+        padding: left 30px;
+        margin-left: 20px;
+    
+        heading4{
+            border: 2px solid black;
+            background-color: blue;
+            padding: left 30px;
+            margin-left: 20px;
+        
+    
